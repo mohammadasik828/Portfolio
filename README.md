@@ -1,4 +1,4 @@
-# 👩‍💻 QA Tester Portfolio
+# QA Tester Portfolio
 
 ## 📌 About Me
 I am a passionate QA Tester with experience in both manual and automation testing. I enjoy finding bugs and ensuring high-quality software delivery.
@@ -6,39 +6,38 @@ I am a passionate QA Tester with experience in both manual and automation testin
 ---
 
 ## 📄 CV
-- [Download CV (PDF)](https://your-link.com/your-cv.pdf)
+- [Download CV (PDF)][https://drive.google.com/drive/folders/1sYx70sLWZASzNCg7W-yJkn_7PZviTrOr?usp=sharing])
 
 ---
 
 ## 🛠 Skills
-- Manual Testing, Bug Reporting
-- Selenium, Postman, JIRA
-- API Testing, SQL, TestRail
+- Manual Testing, Bug Reporting. Automation
+- Selenium, Postman, JIRA, Playwright
+- API Testing, SQL, RestAssured
 - CI/CD Integration (Jenkins, GitHub Actions)
 
 ---
 
 ## ⚙️ Tools
 - Selenium WebDriver
-- TestRail
+- TestNG
+- Cucumber
 - JIRA, Zephyr
 - Postman
-- PICT (Pairwise Testing)
 
 ---
 
 ## 📚 Courses
-- ISTQB Foundation Level (2023)
+- Playwright with Java (Udemy)
 - Selenium with Java (Udemy)
 - API Testing with Postman (LinkedIn Learning)
 
 ---
 
 ## 💼 Examples of my work
-- 🔹 [Test cases and work in TestRail](https://link-to-testrail-example)
+- 🔹 [Test cases and work in TestNG](https://link-to-testrail-example)
 - 🔹 [Bug reports and work in Jira](https://link-to-jira-example)
 - 🔹 [Mindmaps and diagrams](https://link-to-mindmaps)
-- 🔹 [Scripts for PICT (pairwise testing)](https://link-to-pict-scripts)
 
 ---
 
@@ -50,6 +49,6 @@ I am a passionate QA Tester with experience in both manual and automation testin
 ---
 
 ## 📫 Contact
-- 📧 your.email@example.com
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 💻 [GitHub](https://github.com/yourusername)
+- 📧 mohammadasik828@gmail.com
+- 🔗 [LinkedIn](www.linkedin.com/in/md-asik-mia)
+- 💻 [GitHub](https://github.com/mohammadasik828)
